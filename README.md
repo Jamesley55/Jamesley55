@@ -1,6 +1,6 @@
 # Hi there, I'm **Jamesley Joseph** 👋
 
- A software engineer at Salesforce (B.Eng., Software Engineering) where I develop, scale and maintain real‑time bot/end_user messaging for the **Agentforce**.
+ A software engineer at Salesforce (B.Eng., Software Engineering) where I develop, scale and maintain real‑time bot/end_user messaging for **Agentforce**.
 
 * 🛠 **Tech I use daily:** Go, Java, Python, Kafka, gRPC, AWS, Kubernetes, Grafana
 * 📚 **Learning now:** PyTorch fine‑tuning, Rust basics
