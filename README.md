@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Jamesley55
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm **Jamesley Joseph** 👋
 
-<!---
-Jamesley55/Jamesley55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ A software engineer at Salesforce (B.Eng., Software Engineering) where I scale real‑time bot/end_user messaging for the **Agentforce**.
+
+* 🛠 **Tech I use daily:** Go, Java, Python, Kafka, gRPC, AWS, Kubernetes, Grafana
+* 📚 **Learning now:** PyTorch fine‑tuning, Rust basics
+* 🤝 **Open to collaborate on:** generative‑AI infra, observability libraries, education tech
+
+## 📫 Reach Me
+
+* LinkedIn: [linkedin.com/in/jamesley-joseph-291829198](https://www.linkedin.com/in/jamesley-joseph-291829198)
+* Email: [jamesleyjoseph5@gmail.com](mailto:jamesleyjoseph5@gmail.com)
+* Website: [Personal Website](https://jamesley.up.railway.app/)
+
+Keep building, keep learning—PRs welcome!\*
