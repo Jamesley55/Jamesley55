@@ -12,4 +12,4 @@
 * Email: [jamesleyjoseph5@gmail.com](mailto:jamesleyjoseph5@gmail.com)
 * Website: [Personal Website](https://jamesley.up.railway.app/)
 
-Keep building, keep learning—PRs welcome!\*
+**Keep building**
