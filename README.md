@@ -1,4 +1,4 @@
-# Hi there, I'm **Jamesley Joseph** 👋
+# Hi there, I'm **Jamesley** 👋
 
  A software engineer at Salesforce (B.Eng., Software Engineering) where I develop, scale and maintain real‑time bot/end_user messaging for **Agentforce**.
 
