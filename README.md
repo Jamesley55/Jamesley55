@@ -4,7 +4,7 @@
 
 * 🛠 **Tech I use daily:** Go, Java, Python, Kafka, gRPC, AWS, Kubernetes, Grafana
 * 📚 **Learning now:** PyTorch fine‑tuning, Rust basics
-* 🤝 **Open to collaborate on:** generative‑AI infra, observability libraries, education tech
+* 🤝 **Open to collaborate on:** generative‑AI infra, observability libraries, open weight model, llm optimisation
 
 ## 📫 Reach Me
 
